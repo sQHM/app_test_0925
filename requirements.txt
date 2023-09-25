@@ -6,4 +6,4 @@ dash-html-components==2.0.0
 pandas
 numpy
 plotly==5.9.0
-gunicore
+gunicorn
