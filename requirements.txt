@@ -4,6 +4,7 @@ dash-bootstrap-templates==1.0.8
 dash-core-components==2.0.0
 dash-html-components==2.0.0
 pandas
+openpyxl==3.0.10
 numpy
 plotly==5.9.0
 gunicorn
